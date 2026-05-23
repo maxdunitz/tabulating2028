@@ -1,0 +1,2348 @@
+{
+  "SC": {
+    "cd_votes": {
+      "1": {
+        "Biden": 19188,
+        "Williamson,M": 352
+      },
+      "2": {
+        "Biden": 18106,
+        "Williamson,M": 362
+      },
+      "3": {
+        "Biden": 11005,
+        "Williamson,M": 305
+      },
+      "4": {
+        "Biden": 12050,
+        "Williamson,M": 365
+      },
+      "5": {
+        "Biden": 15460,
+        "Williamson,M": 375
+      },
+      "6": {
+        "Biden": 31941,
+        "Williamson,M": 544
+      },
+      "7": {
+        "Biden": 18743,
+        "Williamson,M": 429
+      }
+    },
+    "cd_dels": {
+      "1": 6,
+      "2": 5,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 8,
+      "7": 5
+    },
+    "pools": {
+      "al": 0,
+      "pleo": 0,
+      "cd": 36
+    }
+  },
+  "NV": {
+    "cd_votes": {
+      "1": {
+        "Biden": 27334,
+        "None of these Candidates": 1476
+      },
+      "2": {
+        "Biden": 30515,
+        "None of these Candidates": 2447
+      },
+      "3": {
+        "Biden": 27334,
+        "None of these Candidates": 1476
+      },
+      "4": {
+        "Biden": 27155,
+        "None of these Candidates": 1617
+      }
+    },
+    "cd_dels": {
+      "1": 6,
+      "2": 5,
+      "3": 6,
+      "4": 6
+    },
+    "pools": {
+      "al": 0,
+      "pleo": 0,
+      "cd": 0
+    }
+  },
+  "MI": {
+    "cd_votes": {
+      "1": {
+        "Biden": 48991,
+        "Uncommitted": 6461
+      },
+      "2": {
+        "Biden": 33483,
+        "Uncommitted": 4730
+      },
+      "3": {
+        "Biden": 41797,
+        "Uncommitted": 6703
+      },
+      "4": {
+        "Biden": 39843,
+        "Uncommitted": 5357
+      },
+      "5": {
+        "Biden": 32021,
+        "Uncommitted": 4515
+      },
+      "6": {
+        "Biden": 66527,
+        "Uncommitted": 14559
+      },
+      "7": {
+        "Biden": 53799,
+        "Uncommitted": 7632
+      },
+      "8": {
+        "Biden": 49743,
+        "Uncommitted": 5930
+      },
+      "9": {
+        "Biden": 37259,
+        "Uncommitted": 5278
+      },
+      "10": {
+        "Biden": 45755,
+        "Uncommitted": 7882
+      },
+      "11": {
+        "Biden": 63627,
+        "Uncommitted": 10635
+      },
+      "12": {
+        "Biden": 61962,
+        "Uncommitted": 13740
+      },
+      "13": {
+        "Biden": 50414,
+        "Uncommitted": 8201
+      }
+    },
+    "cd_dels": {
+      "1": 5,
+      "2": 4,
+      "3": 6,
+      "4": 5,
+      "5": 4,
+      "6": 8,
+      "7": 6,
+      "8": 6,
+      "9": 5,
+      "10": 6,
+      "11": 8,
+      "12": 7,
+      "13": 7
+    },
+    "pools": {
+      "al": 0,
+      "pleo": 0,
+      "cd": 77
+    }
+  },
+  "AL": {
+    "cd_votes": {
+      "1": {
+        "Biden": 24599,
+        "Uncommitted": 1615
+      },
+      "2": {
+        "Biden": 28911,
+        "Uncommitted": 1694
+      },
+      "3": {
+        "Biden": 15961,
+        "Uncommitted": 892
+      },
+      "4": {
+        "Biden": 7142,
+        "Uncommitted": 541
+      },
+      "5": {
+        "Biden": 14682,
+        "Uncommitted": 1124
+      },
+      "6": {
+        "Biden": 27308,
+        "Uncommitted": 1598
+      },
+      "7": {
+        "Biden": 48565,
+        "Uncommitted": 3763
+      }
+    },
+    "cd_dels": {
+      "1": 3,
+      "2": 7,
+      "3": 4,
+      "4": 2,
+      "5": 5,
+      "6": 4,
+      "7": 9
+    },
+    "pools": {
+      "al": 0,
+      "pleo": 0,
+      "cd": 34
+    }
+  },
+  "AR": {
+    "cd_votes": {
+      "1": {
+        "Biden": 13118,
+        "Williamson,M": 788
+      },
+      "2": {
+        "Biden": 27882,
+        "Williamson,M": 1309
+      },
+      "3": {
+        "Biden": 12980,
+        "Williamson,M": 880
+      },
+      "4": {
+        "Biden": 17997,
+        "Williamson,M": 905
+      }
+    },
+    "cd_dels": {
+      "1": 4,
+      "2": 7,
+      "3": 5,
+      "4": 4
+    },
+    "pools": {
+      "al": 0,
+      "pleo": 0,
+      "cd": 20
+    }
+  },
+  "CA": {
+    "cd_votes": {
+      "1": {
+        "Biden": 44740,
+        "Williamson,M": 2146
+      },
+      "2": {
+        "Biden": 131794,
+        "Williamson,M": 4773
+      },
+      "3": {
+        "Biden": 81397,
+        "Williamson,M": 3108
+      },
+      "4": {
+        "Biden": 98469,
+        "Williamson,M": 3469
+      },
+      "5": {
+        "Biden": 59845,
+        "Williamson,M": 2321
+      },
+      "6": {
+        "Biden": 61697,
+        "Williamson,M": 2979
+      },
+      "7": {
+        "Biden": 76506,
+        "Williamson,M": 3184
+      },
+      "8": {
+        "Biden": 77361,
+        "Williamson,M": 2728
+      },
+      "9": {
+        "Biden": 42514,
+        "Williamson,M": 2089
+      },
+      "10": {
+        "Biden": 96006,
+        "Williamson,M": 2970
+      },
+      "11": {
+        "Biden": 131492,
+        "Williamson,M": 5735
+      },
+      "12": {
+        "Biden": 115056,
+        "Williamson,M": 5483
+      },
+      "13": {
+        "Biden": 27406,
+        "Williamson,M": 1442
+      },
+      "14": {
+        "Biden": 64287,
+        "Williamson,M": 2438
+      },
+      "15": {
+        "Biden": 86526,
+        "Williamson,M": 2837
+      },
+      "16": {
+        "Biden": 102230,
+        "Williamson,M": 3268
+      },
+      "17": {
+        "Biden": 58333,
+        "Williamson,M": 2859
+      },
+      "18": {
+        "Biden": 47211,
+        "Williamson,M": 2285
+      },
+      "19": {
+        "Biden": 102693,
+        "Williamson,M": 4173
+      },
+      "20": {
+        "Biden": 33439,
+        "Williamson,M": 1549
+      },
+      "21": {
+        "Biden": 29124,
+        "Williamson,M": 1313
+      },
+      "22": {
+        "Biden": 19332,
+        "Williamson,M": 1088
+      },
+      "23": {
+        "Biden": 33062,
+        "Williamson,M": 1543
+      },
+      "24": {
+        "Biden": 87296,
+        "Williamson,M": 3481
+      },
+      "25": {
+        "Biden": 40073,
+        "Williamson,M": 1656
+      },
+      "26": {
+        "Biden": 67851,
+        "Williamson,M": 2502
+      },
+      "27": {
+        "Biden": 43149,
+        "Williamson,M": 2531
+      },
+      "28": {
+        "Biden": 71005,
+        "Williamson,M": 3342
+      },
+      "29": {
+        "Biden": 39721,
+        "Williamson,M": 3294
+      },
+      "30": {
+        "Biden": 83025,
+        "Williamson,M": 5644
+      },
+      "31": {
+        "Biden": 38640,
+        "Williamson,M": 2421
+      },
+      "32": {
+        "Biden": 83291,
+        "Williamson,M": 3973
+      },
+      "33": {
+        "Biden": 34263,
+        "Williamson,M": 1629
+      },
+      "34": {
+        "Biden": 41388,
+        "Williamson,M": 4203
+      },
+      "35": {
+        "Biden": 32756,
+        "Williamson,M": 1838
+      },
+      "36": {
+        "Biden": 94832,
+        "Williamson,M": 4178
+      },
+      "37": {
+        "Biden": 57792,
+        "Williamson,M": 3493
+      },
+      "38": {
+        "Biden": 42087,
+        "Williamson,M": 2667
+      },
+      "39": {
+        "Biden": 33468,
+        "Williamson,M": 1672
+      },
+      "40": {
+        "Biden": 62380,
+        "Williamson,M": 2353
+      },
+      "41": {
+        "Biden": 56979,
+        "Williamson,M": 1901
+      },
+      "42": {
+        "Biden": 42537,
+        "Williamson,M": 3317
+      },
+      "43": {
+        "Biden": 44322,
+        "Williamson,M": 2591
+      },
+      "44": {
+        "Biden": 44092,
+        "Williamson,M": 3158
+      },
+      "45": {
+        "Biden": 46476,
+        "Williamson,M": 2222
+      },
+      "46": {
+        "Biden": 30826,
+        "Williamson,M": 1796
+      },
+      "47": {
+        "Biden": 62548,
+        "Williamson,M": 2292
+      },
+      "48": {
+        "Biden": 48791,
+        "Williamson,M": 1981
+      },
+      "49": {
+        "Biden": 71478,
+        "Williamson,M": 2282
+      },
+      "50": {
+        "Biden": 77679,
+        "Williamson,M": 3120
+      },
+      "51": {
+        "Biden": 67255,
+        "Williamson,M": 2933
+      },
+      "52": {
+        "Biden": 41167,
+        "Williamson,M": 2106
+      }
+    },
+    "cd_dels": {
+      "1": 4,
+      "2": 7,
+      "3": 5,
+      "4": 6,
+      "5": 5,
+      "6": 6,
+      "7": 5,
+      "8": 6,
+      "9": 5,
+      "10": 6,
+      "11": 7,
+      "12": 7,
+      "13": 4,
+      "14": 6,
+      "15": 6,
+      "16": 6,
+      "17": 5,
+      "18": 5,
+      "19": 6,
+      "20": 4,
+      "21": 4,
+      "22": 4,
+      "23": 4,
+      "24": 6,
+      "25": 5,
+      "26": 5,
+      "27": 5,
+      "28": 6,
+      "29": 5,
+      "30": 6,
+      "31": 5,
+      "32": 6,
+      "33": 5,
+      "34": 5,
+      "35": 5,
+      "36": 6,
+      "37": 6,
+      "38": 5,
+      "39": 5,
+      "40": 5,
+      "41": 5,
+      "42": 5,
+      "43": 5,
+      "44": 5,
+      "45": 6,
+      "46": 5,
+      "47": 5,
+      "48": 5,
+      "49": 5,
+      "50": 6,
+      "51": 6,
+      "52": 5
+    },
+    "pools": {
+      "al": 0,
+      "pleo": 0,
+      "cd": 0
+    }
+  },
+  "CO": {
+    "cd_votes": {
+      "1": {
+        "Biden": 74714,
+        "Uncommitted": 10216
+      },
+      "2": {
+        "Biden": 83705,
+        "Uncommitted": 8794
+      },
+      "3": {
+        "Biden": 54918,
+        "Uncommitted": 5199
+      },
+      "4": {
+        "Biden": 48829,
+        "Uncommitted": 4694
+      },
+      "5": {
+        "Biden": 41653,
+        "Uncommitted": 3915
+      },
+      "6": {
+        "Biden": 57286,
+        "Uncommitted": 6117
+      },
+      "7": {
+        "Biden": 73381,
+        "Uncommitted": 7865
+      },
+      "8": {
+        "Biden": 38889,
+        "Uncommitted": 4357
+      }
+    },
+    "cd_dels": {
+      "1": 8,
+      "2": 8,
+      "3": 5,
+      "4": 5,
+      "5": 4,
+      "6": 6,
+      "7": 7,
+      "8": 4
+    },
+    "pools": {
+      "al": 0,
+      "pleo": 0,
+      "cd": 0
+    }
+  },
+  "IA": {
+    "cd_votes": {
+      "1": {
+        "Biden": 3479,
+        "Uncommitted": 209
+      },
+      "2": {
+        "Biden": 3065,
+        "Uncommitted": 148
+      },
+      "3": {
+        "Biden": 3847,
+        "Uncommitted": 171
+      },
+      "4": {
+        "Biden": 1946,
+        "Uncommitted": 86
+      }
+    },
+    "cd_dels": {
+      "1": 7,
+      "2": 7,
+      "3": 6,
+      "4": 6
+    },
+    "pools": {
+      "al": 0,
+      "pleo": 0,
+      "cd": 0
+    }
+  },
+  "ME": {
+    "cd_votes": {
+      "1": {
+        "Biden": 38181,
+        "BLANK": 4834
+      },
+      "2": {
+        "Biden": 21837,
+        "BLANK": 2525
+      }
+    },
+    "cd_dels": {
+      "1": 9,
+      "2": 7
+    },
+    "pools": {
+      "al": 0,
+      "pleo": 0,
+      "cd": 16
+    }
+  },
+  "MA": {
+    "cd_votes": {
+      "1": {
+        "Biden": 49049,
+        "No Preference": 5179
+      },
+      "2": {
+        "Biden": 52445,
+        "No Preference": 6177
+      },
+      "3": {
+        "Biden": 60271,
+        "No Preference": 6947
+      },
+      "4": {
+        "Biden": 53259,
+        "No Preference": 5843
+      },
+      "5": {
+        "Biden": 66038,
+        "No Preference": 8460
+      },
+      "6": {
+        "Biden": 56766,
+        "No Preference": 5918
+      },
+      "7": {
+        "Biden": 51630,
+        "No Preference": 8026
+      },
+      "8": {
+        "Biden": 57002,
+        "No Preference": 6241
+      },
+      "9": {
+        "Biden": 64101,
+        "No Preference": 4718
+      }
+    },
+    "cd_dels": {
+      "1": 6,
+      "2": 6,
+      "3": 6,
+      "4": 6,
+      "5": 8,
+      "6": 6,
+      "7": 8,
+      "8": 8,
+      "9": 6
+    },
+    "pools": {
+      "al": 0,
+      "pleo": 0,
+      "cd": 60
+    }
+  },
+  "MN": {
+    "cd_votes": {
+      "1": {
+        "Biden": 16573,
+        "Uncommitted": 2552
+      },
+      "2": {
+        "Biden": 19404,
+        "Uncommitted": 4364
+      },
+      "3": {
+        "Biden": 23397,
+        "Uncommitted": 4581
+      },
+      "4": {
+        "Biden": 29676,
+        "Uncommitted": 9061
+      },
+      "5": {
+        "Biden": 34492,
+        "Uncommitted": 18357
+      },
+      "6": {
+        "Biden": 12219,
+        "Uncommitted": 2523
+      },
+      "7": {
+        "Biden": 12698,
+        "Uncommitted": 1323
+      },
+      "8": {
+        "Biden": 22819,
+        "Uncommitted": 3153
+      }
+    },
+    "cd_dels": {
+      "1": 5,
+      "2": 6,
+      "3": 7,
+      "4": 8,
+      "5": 9,
+      "6": 5,
+      "7": 4,
+      "8": 5
+    },
+    "pools": {
+      "al": 0,
+      "pleo": 0,
+      "cd": 0
+    }
+  },
+  "NC": {
+    "cd_votes": {
+      "1": {
+        "Biden": 49993,
+        "No Preference": 8286
+      },
+      "2": {
+        "Biden": 66524,
+        "No Preference": 9613
+      },
+      "3": {
+        "Biden": 31658,
+        "No Preference": 4394
+      },
+      "4": {
+        "Biden": 85978,
+        "No Preference": 14168
+      },
+      "5": {
+        "Biden": 36689,
+        "No Preference": 5601
+      },
+      "6": {
+        "Biden": 29610,
+        "No Preference": 3757
+      },
+      "7": {
+        "Biden": 40820,
+        "No Preference": 5289
+      },
+      "8": {
+        "Biden": 30357,
+        "No Preference": 5766
+      },
+      "9": {
+        "Biden": 34760,
+        "No Preference": 4178
+      },
+      "10": {
+        "Biden": 33858,
+        "No Preference": 4467
+      },
+      "11": {
+        "Biden": 50991,
+        "No Preference": 8801
+      },
+      "12": {
+        "Biden": 49688,
+        "No Preference": 5418
+      },
+      "13": {
+        "Biden": 38901,
+        "No Preference": 6012
+      },
+      "14": {
+        "Biden": 31245,
+        "No Preference": 4060
+      }
+    },
+    "cd_dels": {
+      "1": 6,
+      "2": 7,
+      "3": 4,
+      "4": 7,
+      "5": 5,
+      "6": 6,
+      "7": 5,
+      "8": 4,
+      "9": 5,
+      "10": 3,
+      "11": 5,
+      "12": 7,
+      "13": 6,
+      "14": 6
+    },
+    "pools": {
+      "al": 0,
+      "pleo": 0,
+      "cd": 0
+    }
+  },
+  "OK": {
+    "cd_votes": {
+      "1": {
+        "Biden": 14955,
+        "Williamson,M": 1576
+      },
+      "2": {
+        "Biden": 10882,
+        "Williamson,M": 1723
+      },
+      "3": {
+        "Biden": 11202,
+        "Williamson,M": 1534
+      },
+      "4": {
+        "Biden": 14837,
+        "Williamson,M": 1881
+      },
+      "5": {
+        "Biden": 15003,
+        "Williamson,M": 1632
+      }
+    },
+    "cd_dels": {
+      "1": 5,
+      "2": 4,
+      "3": 4,
+      "4": 4,
+      "5": 6
+    },
+    "pools": {
+      "al": 0,
+      "pleo": 0,
+      "cd": 0
+    }
+  },
+  "TN": {
+    "cd_votes": {
+      "1": {
+        "Biden": 4808,
+        "Uncommitted": 483
+      },
+      "2": {
+        "Biden": 13647,
+        "Uncommitted": 1642
+      },
+      "3": {
+        "Biden": 11457,
+        "Uncommitted": 1012
+      },
+      "4": {
+        "Biden": 8412,
+        "Uncommitted": 765
+      },
+      "5": {
+        "Biden": 21338,
+        "Uncommitted": 2037
+      },
+      "6": {
+        "Biden": 14789,
+        "Uncommitted": 1453
+      },
+      "7": {
+        "Biden": 14488,
+        "Uncommitted": 1337
+      },
+      "8": {
+        "Biden": 12318,
+        "Uncommitted": 580
+      },
+      "9": {
+        "Biden": 21861,
+        "Uncommitted": 1194
+      }
+    },
+    "cd_dels": {
+      "1": 4,
+      "2": 4,
+      "3": 4,
+      "4": 4,
+      "5": 5,
+      "6": 4,
+      "7": 5,
+      "8": 4,
+      "9": 7
+    },
+    "pools": {
+      "al": 0,
+      "pleo": 0,
+      "cd": 0
+    }
+  },
+  "TX": {
+    "cd_votes": {
+      "1": {
+        "Biden": 12826,
+        "Williamson,M": 526
+      },
+      "2": {
+        "Biden": 17804,
+        "Williamson,M": 670
+      },
+      "3": {
+        "Biden": 20132,
+        "Williamson,M": 946
+      },
+      "4": {
+        "Biden": 17783,
+        "Williamson,M": 654
+      },
+      "5": {
+        "Biden": 17580,
+        "Williamson,M": 843
+      },
+      "6": {
+        "Biden": 15087,
+        "Williamson,M": 710
+      },
+      "7": {
+        "Biden": 30235,
+        "Williamson,M": 1965
+      },
+      "8": {
+        "Biden": 4684,
+        "Williamson,M": 626
+      },
+      "9": {
+        "Biden": 38443,
+        "Williamson,M": 1652
+      },
+      "10": {
+        "Biden": 89550,
+        "Williamson,M": 6419
+      },
+      "11": {
+        "Biden": 8543,
+        "Williamson,M": 456
+      },
+      "12": {
+        "Biden": 18993,
+        "Williamson,M": 1182
+      },
+      "13": {
+        "Biden": 9045,
+        "Williamson,M": 608
+      },
+      "14": {
+        "Biden": 18413,
+        "Williamson,M": 598
+      },
+      "15": {
+        "Biden": 18326,
+        "Williamson,M": 1432
+      },
+      "16": {
+        "Biden": 29044,
+        "Williamson,M": 1326
+      },
+      "17": {
+        "Biden": 90544,
+        "Williamson,M": 6247
+      },
+      "18": {
+        "Biden": 13483,
+        "Williamson,M": 1207
+      },
+      "19": {
+        "Biden": 7136,
+        "Williamson,M": 469
+      },
+      "20": {
+        "Biden": 23195,
+        "Williamson,M": 1262
+      },
+      "21": {
+        "Biden": 112939,
+        "Williamson,M": 7277
+      },
+      "22": {
+        "Biden": 20362,
+        "Williamson,M": 1344
+      },
+      "23": {
+        "Biden": 47202,
+        "Williamson,M": 2688
+      },
+      "24": {
+        "Biden": 28130,
+        "Williamson,M": 1279
+      },
+      "25": {
+        "Biden": 14187,
+        "Williamson,M": 856
+      },
+      "26": {
+        "Biden": 19356,
+        "Williamson,M": 692
+      },
+      "27": {
+        "Biden": 17942,
+        "Williamson,M": 670
+      },
+      "28": {
+        "Biden": 25476,
+        "Williamson,M": 1755
+      },
+      "29": {
+        "Biden": 15318,
+        "Williamson,M": 639
+      },
+      "30": {
+        "Biden": 43100,
+        "Williamson,M": 1970
+      },
+      "31": {
+        "Biden": 20551,
+        "Williamson,M": 934
+      },
+      "32": {
+        "Biden": 29979,
+        "Williamson,M": 1502
+      },
+      "33": {
+        "Biden": 17665,
+        "Williamson,M": 1199
+      },
+      "34": {
+        "Biden": 19189,
+        "Williamson,M": 1394
+      },
+      "35": {
+        "Biden": 101029,
+        "Williamson,M": 6933
+      },
+      "36": {
+        "Biden": 16340,
+        "Williamson,M": 668
+      },
+      "37": {
+        "Biden": 81136,
+        "Williamson,M": 5772
+      },
+      "38": {
+        "Biden": 21655,
+        "Williamson,M": 903
+      }
+    },
+    "cd_dels": {
+      "1": 3,
+      "2": 4,
+      "3": 4,
+      "4": 4,
+      "5": 3,
+      "6": 3,
+      "7": 6,
+      "8": 3,
+      "9": 6,
+      "10": 4,
+      "11": 2,
+      "12": 4,
+      "13": 2,
+      "14": 4,
+      "15": 4,
+      "16": 5,
+      "17": 3,
+      "18": 6,
+      "19": 2,
+      "20": 5,
+      "21": 5,
+      "22": 4,
+      "23": 4,
+      "24": 5,
+      "25": 3,
+      "26": 4,
+      "27": 4,
+      "28": 4,
+      "29": 4,
+      "30": 7,
+      "31": 4,
+      "32": 5,
+      "33": 4,
+      "34": 4,
+      "35": 5,
+      "36": 3,
+      "37": 9,
+      "38": 4
+    },
+    "pools": {
+      "al": 0,
+      "pleo": 0,
+      "cd": 0
+    }
+  },
+  "UT": {
+    "cd_votes": {
+      "1": {
+        "Biden": 13670,
+        "Williamson,M": 855
+      },
+      "2": {
+        "Biden": 15999,
+        "Williamson,M": 855
+      },
+      "3": {
+        "Biden": 12940,
+        "Williamson,M": 842
+      },
+      "4": {
+        "Biden": 15981,
+        "Williamson,M": 944
+      }
+    },
+    "cd_dels": {
+      "1": 4,
+      "2": 6,
+      "3": 4,
+      "4": 6
+    },
+    "pools": {
+      "al": 0,
+      "pleo": 0,
+      "cd": 20
+    }
+  },
+  "VA": {
+    "cd_votes": {
+      "1": {
+        "Biden": 32506,
+        "Williamson,M": 2394
+      },
+      "2": {
+        "Biden": 29590,
+        "Williamson,M": 1778
+      },
+      "3": {
+        "Biden": 31858,
+        "Williamson,M": 1899
+      },
+      "4": {
+        "Biden": 36841,
+        "Williamson,M": 3546
+      },
+      "5": {
+        "Biden": 25011,
+        "Williamson,M": 1785
+      },
+      "6": {
+        "Biden": 16634,
+        "Williamson,M": 1578
+      },
+      "7": {
+        "Biden": 24978,
+        "Williamson,M": 2333
+      },
+      "8": {
+        "Biden": 43070,
+        "Williamson,M": 3916
+      },
+      "9": {
+        "Biden": 11851,
+        "Williamson,M": 961
+      },
+      "10": {
+        "Biden": 25146,
+        "Williamson,M": 3383
+      },
+      "11": {
+        "Biden": 35460,
+        "Williamson,M": 4116
+      }
+    },
+    "cd_dels": {
+      "1": 6,
+      "2": 6,
+      "3": 6,
+      "4": 7,
+      "5": 5,
+      "6": 4,
+      "7": 6,
+      "8": 8,
+      "9": 3,
+      "10": 6,
+      "11": 8
+    },
+    "pools": {
+      "al": 0,
+      "pleo": 0,
+      "cd": 65
+    }
+  },
+  "HI": {
+    "cd_votes": {
+      "1": {
+        "Biden": 434,
+        "Uncommitted": 199
+      },
+      "2": {
+        "Biden": 598,
+        "Uncommitted": 256
+      }
+    },
+    "cd_dels": {
+      "1": 7,
+      "2": 7
+    },
+    "pools": {
+      "al": 0,
+      "pleo": 0,
+      "cd": 0
+    }
+  },
+  "GA": {
+    "cd_votes": {
+      "1": {
+        "Biden": 16076,
+        "Williamson,M": 492
+      },
+      "2": {
+        "Biden": 22937,
+        "Williamson,M": 547
+      },
+      "3": {
+        "Biden": 17323,
+        "Williamson,M": 520
+      },
+      "4": {
+        "Biden": 39246,
+        "Williamson,M": 1054
+      },
+      "5": {
+        "Biden": 33121,
+        "Williamson,M": 955
+      },
+      "6": {
+        "Biden": 18679,
+        "Williamson,M": 694
+      },
+      "7": {
+        "Biden": 15915,
+        "Williamson,M": 558
+      },
+      "8": {
+        "Biden": 14820,
+        "Williamson,M": 464
+      },
+      "9": {
+        "Biden": 9737,
+        "Williamson,M": 416
+      },
+      "10": {
+        "Biden": 17102,
+        "Williamson,M": 633
+      },
+      "11": {
+        "Biden": 15640,
+        "Williamson,M": 643
+      },
+      "12": {
+        "Biden": 16300,
+        "Williamson,M": 496
+      },
+      "13": {
+        "Biden": 29305,
+        "Williamson,M": 804
+      },
+      "14": {
+        "Biden": 9671,
+        "Williamson,M": 418
+      }
+    },
+    "cd_dels": {
+      "1": 4,
+      "2": 5,
+      "3": 4,
+      "4": 7,
+      "5": 7,
+      "6": 5,
+      "7": 6,
+      "8": 4,
+      "9": 4,
+      "10": 4,
+      "11": 5,
+      "12": 5,
+      "13": 7,
+      "14": 4
+    },
+    "pools": {
+      "al": 0,
+      "pleo": 0,
+      "cd": 0
+    }
+  },
+  "WA": {
+    "cd_votes": {
+      "1": {
+        "Biden": 81527,
+        "Uncommitted Delegates": 10516
+      },
+      "2": {
+        "Biden": 90731,
+        "Uncommitted Delegates": 10250
+      },
+      "3": {
+        "Biden": 67695,
+        "Uncommitted Delegates": 4903
+      },
+      "4": {
+        "Biden": 41057,
+        "Uncommitted Delegates": 2862
+      },
+      "5": {
+        "Biden": 56989,
+        "Uncommitted Delegates": 4202
+      },
+      "6": {
+        "Biden": 83931,
+        "Uncommitted Delegates": 6468
+      },
+      "7": {
+        "Biden": 90293,
+        "Uncommitted Delegates": 15027
+      },
+      "8": {
+        "Biden": 77761,
+        "Uncommitted Delegates": 10763
+      },
+      "9": {
+        "Biden": 90293,
+        "Uncommitted Delegates": 15027
+      },
+      "10": {
+        "Biden": 69671,
+        "Uncommitted Delegates": 7063
+      }
+    },
+    "cd_dels": {
+      "1": 6,
+      "2": 7,
+      "3": 5,
+      "4": 3,
+      "5": 5,
+      "6": 6,
+      "7": 10,
+      "8": 6,
+      "9": 7,
+      "10": 5
+    },
+    "pools": {
+      "al": 0,
+      "pleo": 0,
+      "cd": 0
+    }
+  },
+  "AZ": {
+    "cd_votes": {
+      "1": {
+        "Biden": 38431,
+        "Williamson,M": 1600
+      },
+      "2": {
+        "Biden": 43290,
+        "Williamson,M": 2113
+      },
+      "3": {
+        "Biden": 38431,
+        "Williamson,M": 1600
+      },
+      "4": {
+        "Biden": 38431,
+        "Williamson,M": 1600
+      },
+      "5": {
+        "Biden": 37706,
+        "Williamson,M": 1500
+      },
+      "6": {
+        "Biden": 55730,
+        "Williamson,M": 2213
+      },
+      "7": {
+        "Biden": 50475,
+        "Williamson,M": 2114
+      },
+      "8": {
+        "Biden": 38431,
+        "Williamson,M": 1600
+      },
+      "9": {
+        "Biden": 32086,
+        "Williamson,M": 1299
+      }
+    },
+    "cd_dels": {
+      "1": 7,
+      "2": 5,
+      "3": 4,
+      "4": 6,
+      "5": 5,
+      "6": 6,
+      "7": 5,
+      "8": 5,
+      "9": 4
+    },
+    "pools": {
+      "al": 0,
+      "pleo": 0,
+      "cd": 0
+    }
+  },
+  "IL": {
+    "cd_votes": {
+      "1": {
+        "Biden": 50297,
+        "Williamson,M": 2036
+      },
+      "2": {
+        "Biden": 45485,
+        "Williamson,M": 1824
+      },
+      "3": {
+        "Biden": 57049,
+        "Williamson,M": 2317
+      },
+      "4": {
+        "Biden": 59497,
+        "Williamson,M": 2366
+      },
+      "5": {
+        "Biden": 58324,
+        "Williamson,M": 2284
+      },
+      "6": {
+        "Biden": 55230,
+        "Williamson,M": 2283
+      },
+      "7": {
+        "Biden": 59945,
+        "Williamson,M": 2372
+      },
+      "8": {
+        "Biden": 48630,
+        "Williamson,M": 1885
+      },
+      "9": {
+        "Biden": 54995,
+        "Williamson,M": 2116
+      },
+      "10": {
+        "Biden": 35125,
+        "Williamson,M": 1033
+      },
+      "11": {
+        "Biden": 36348,
+        "Williamson,M": 1361
+      },
+      "12": {
+        "Biden": 19470,
+        "Williamson,M": 842
+      },
+      "13": {
+        "Biden": 26651,
+        "Williamson,M": 1003
+      },
+      "14": {
+        "Biden": 29934,
+        "Williamson,M": 1262
+      },
+      "15": {
+        "Biden": 16964,
+        "Williamson,M": 752
+      },
+      "16": {
+        "Biden": 23420,
+        "Williamson,M": 821
+      },
+      "17": {
+        "Biden": 25870,
+        "Williamson,M": 783
+      }
+    },
+    "cd_dels": {
+      "1": 7,
+      "2": 6,
+      "3": 6,
+      "4": 5,
+      "5": 8,
+      "6": 6,
+      "7": 8,
+      "8": 5,
+      "9": 7,
+      "10": 6,
+      "11": 5,
+      "12": 3,
+      "13": 6,
+      "14": 5,
+      "15": 4,
+      "16": 4,
+      "17": 5
+    },
+    "pools": {
+      "al": 0,
+      "pleo": 0,
+      "cd": 0
+    }
+  },
+  "KS": {
+    "cd_votes": {
+      "1": {
+        "Biden": 6478,
+        "None of these Candidates": 1097
+      },
+      "2": {
+        "Biden": 9742,
+        "None of these Candidates": 1308
+      },
+      "3": {
+        "Biden": 11491,
+        "None of these Candidates": 1113
+      },
+      "4": {
+        "Biden": 7914,
+        "None of these Candidates": 823
+      }
+    },
+    "cd_dels": {
+      "1": 4,
+      "2": 5,
+      "3": 8,
+      "4": 5
+    },
+    "pools": {
+      "al": 0,
+      "pleo": 0,
+      "cd": 0
+    }
+  },
+  "OH": {
+    "cd_votes": {
+      "1": {
+        "Biden": 25727,
+        "Phillips": 2909
+      },
+      "2": {
+        "Biden": 15370,
+        "Phillips": 3320
+      },
+      "3": {
+        "Biden": 36097,
+        "Phillips": 4279
+      },
+      "4": {
+        "Biden": 21345,
+        "Phillips": 3345
+      },
+      "5": {
+        "Biden": 27104,
+        "Phillips": 4614
+      },
+      "6": {
+        "Biden": 28312,
+        "Phillips": 6255
+      },
+      "7": {
+        "Biden": 41634,
+        "Phillips": 5708
+      },
+      "8": {
+        "Biden": 21010,
+        "Phillips": 2459
+      },
+      "9": {
+        "Biden": 32948,
+        "Phillips": 4173
+      },
+      "10": {
+        "Biden": 34012,
+        "Phillips": 4032
+      },
+      "11": {
+        "Biden": 51404,
+        "Phillips": 6972
+      },
+      "12": {
+        "Biden": 22429,
+        "Phillips": 3895
+      },
+      "13": {
+        "Biden": 35813,
+        "Phillips": 5523
+      },
+      "14": {
+        "Biden": 33038,
+        "Phillips": 6526
+      },
+      "15": {
+        "Biden": 30269,
+        "Phillips": 4020
+      }
+    },
+    "cd_dels": {
+      "1": 7,
+      "2": 3,
+      "3": 9,
+      "4": 4,
+      "5": 4,
+      "6": 4,
+      "7": 6,
+      "8": 5,
+      "9": 6,
+      "10": 6,
+      "11": 9,
+      "12": 4,
+      "13": 6,
+      "14": 5,
+      "15": 5
+    },
+    "pools": {
+      "al": 0,
+      "pleo": 0,
+      "cd": 0
+    }
+  },
+  "LA": {
+    "cd_votes": {
+      "1": {
+        "Biden": 17729,
+        "Williamson,M": 1314
+      },
+      "2": {
+        "Biden": 35935,
+        "Williamson,M": 1507
+      },
+      "3": {
+        "Biden": 11665,
+        "Williamson,M": 783
+      },
+      "4": {
+        "Biden": 35209,
+        "Williamson,M": 2080
+      },
+      "5": {
+        "Biden": 21830,
+        "Williamson,M": 1255
+      },
+      "6": {
+        "Biden": 21008,
+        "Williamson,M": 964
+      }
+    },
+    "cd_dels": {
+      "1": 4,
+      "2": 8,
+      "3": 5,
+      "4": 5,
+      "5": 5,
+      "6": 5
+    },
+    "pools": {
+      "al": 0,
+      "pleo": 0,
+      "cd": 32
+    }
+  },
+  "MO": {
+    "cd_votes": {
+      "1": {
+        "Biden": 0,
+        "Lyons,S": 0
+      },
+      "2": {
+        "Biden": 0,
+        "Lyons,S": 0
+      },
+      "3": {
+        "Biden": 0,
+        "Lyons,S": 0
+      },
+      "4": {
+        "Biden": 0,
+        "Lyons,S": 0
+      },
+      "5": {
+        "Biden": 0,
+        "Lyons,S": 0
+      },
+      "6": {
+        "Biden": 0,
+        "Lyons,S": 0
+      },
+      "7": {
+        "Biden": 0,
+        "Lyons,S": 0
+      },
+      "8": {
+        "Biden": 0,
+        "Lyons,S": 0
+      }
+    },
+    "cd_dels": {
+      "1": 8,
+      "2": 6,
+      "3": 5,
+      "4": 4,
+      "5": 6,
+      "6": 5,
+      "7": 4,
+      "8": 4
+    },
+    "pools": {
+      "al": 0,
+      "pleo": 0,
+      "cd": 42
+    }
+  },
+  "CT": {
+    "cd_votes": {
+      "1": {
+        "Biden": 16052,
+        "Uncommitted": 2312
+      },
+      "2": {
+        "Biden": 11178,
+        "Uncommitted": 1516
+      },
+      "3": {
+        "Biden": 15286,
+        "Uncommitted": 2481
+      },
+      "4": {
+        "Biden": 13421,
+        "Uncommitted": 1448
+      },
+      "5": {
+        "Biden": 12063,
+        "Uncommitted": 1617
+      }
+    },
+    "cd_dels": {
+      "1": 8,
+      "2": 8,
+      "3": 8,
+      "4": 8,
+      "5": 8
+    },
+    "pools": {
+      "al": 0,
+      "pleo": 0,
+      "cd": 0
+    }
+  },
+  "NY": {
+    "cd_votes": {
+      "1": {
+        "Biden": 7695,
+        "Williamson,M": 322
+      },
+      "2": {
+        "Biden": 4502,
+        "Williamson,M": 244
+      },
+      "3": {
+        "Biden": 10010,
+        "Williamson,M": 444
+      },
+      "4": {
+        "Biden": 6614,
+        "Williamson,M": 241
+      },
+      "5": {
+        "Biden": 13113,
+        "Williamson,M": 570
+      },
+      "6": {
+        "Biden": 9423,
+        "Williamson,M": 729
+      },
+      "7": {
+        "Biden": 9768,
+        "Williamson,M": 910
+      },
+      "8": {
+        "Biden": 11361,
+        "Williamson,M": 619
+      },
+      "9": {
+        "Biden": 13131,
+        "Williamson,M": 662
+      },
+      "10": {
+        "Biden": 18714,
+        "Williamson,M": 975
+      },
+      "11": {
+        "Biden": 7118,
+        "Williamson,M": 681
+      },
+      "12": {
+        "Biden": 31280,
+        "Williamson,M": 998
+      },
+      "13": {
+        "Biden": 16049,
+        "Williamson,M": 895
+      },
+      "14": {
+        "Biden": 10788,
+        "Williamson,M": 654
+      },
+      "15": {
+        "Biden": 10387,
+        "Williamson,M": 549
+      },
+      "16": {
+        "Biden": 11974,
+        "Williamson,M": 496
+      },
+      "17": {
+        "Biden": 9898,
+        "Williamson,M": 475
+      },
+      "18": {
+        "Biden": 8899,
+        "Williamson,M": 533
+      },
+      "19": {
+        "Biden": 12437,
+        "Williamson,M": 795
+      },
+      "20": {
+        "Biden": 11098,
+        "Williamson,M": 607
+      },
+      "21": {
+        "Biden": 7232,
+        "Williamson,M": 486
+      },
+      "22": {
+        "Biden": 8256,
+        "Williamson,M": 448
+      },
+      "23": {
+        "Biden": 7468,
+        "Williamson,M": 528
+      },
+      "24": {
+        "Biden": 6102,
+        "Williamson,M": 416
+      },
+      "25": {
+        "Biden": 13798,
+        "Williamson,M": 732
+      },
+      "26": {
+        "Biden": 10975,
+        "Williamson,M": 558
+      }
+    },
+    "cd_dels": {
+      "1": 7,
+      "2": 5,
+      "3": 7,
+      "4": 7,
+      "5": 7,
+      "6": 5,
+      "7": 7,
+      "8": 7,
+      "9": 8,
+      "10": 10,
+      "11": 5,
+      "12": 11,
+      "13": 8,
+      "14": 6,
+      "15": 5,
+      "16": 8,
+      "17": 8,
+      "18": 7,
+      "19": 7,
+      "20": 8,
+      "21": 5,
+      "22": 6,
+      "23": 6,
+      "24": 4,
+      "25": 7,
+      "26": 8
+    },
+    "pools": {
+      "al": 0,
+      "pleo": 0,
+      "cd": 0
+    }
+  },
+  "RI": {
+    "cd_votes": {
+      "1": {
+        "Biden": 12273,
+        "Uncommitted": 2204
+      },
+      "2": {
+        "Biden": 8629,
+        "Uncommitted": 1558
+      }
+    },
+    "cd_dels": {
+      "1": 9,
+      "2": 9
+    },
+    "pools": {
+      "al": 0,
+      "pleo": 0,
+      "cd": 0
+    }
+  },
+  "WI": {
+    "cd_votes": {
+      "1": {
+        "Biden": 59753,
+        "Uninstructed Delegate": 4662
+      },
+      "2": {
+        "Biden": 99611,
+        "Uninstructed Delegate": 15575
+      },
+      "3": {
+        "Biden": 61043,
+        "Uninstructed Delegate": 4691
+      },
+      "4": {
+        "Biden": 72211,
+        "Uninstructed Delegate": 10400
+      },
+      "5": {
+        "Biden": 57531,
+        "Uninstructed Delegate": 4212
+      },
+      "6": {
+        "Biden": 52797,
+        "Uninstructed Delegate": 2970
+      },
+      "7": {
+        "Biden": 56696,
+        "Uninstructed Delegate": 2874
+      },
+      "8": {
+        "Biden": 52230,
+        "Uninstructed Delegate": 2724
+      }
+    },
+    "cd_dels": {
+      "1": 6,
+      "2": 11,
+      "3": 6,
+      "4": 8,
+      "5": 6,
+      "6": 6,
+      "7": 5,
+      "8": 6
+    },
+    "pools": {
+      "al": 0,
+      "pleo": 0,
+      "cd": 0
+    }
+  },
+  "PA": {
+    "cd_votes": {
+      "1": {
+        "Biden": 67807,
+        "Phillips": 3490
+      },
+      "2": {
+        "Biden": 68455,
+        "Phillips": 4183
+      },
+      "3": {
+        "Biden": 68455,
+        "Phillips": 4183
+      },
+      "4": {
+        "Biden": 70375,
+        "Phillips": 3228
+      },
+      "5": {
+        "Biden": 67555,
+        "Phillips": 2724
+      },
+      "6": {
+        "Biden": 55383,
+        "Phillips": 2559
+      },
+      "7": {
+        "Biden": 50585,
+        "Phillips": 4082
+      },
+      "8": {
+        "Biden": 52545,
+        "Phillips": 4565
+      },
+      "9": {
+        "Biden": 32337,
+        "Phillips": 3710
+      },
+      "10": {
+        "Biden": 52224,
+        "Phillips": 3416
+      },
+      "11": {
+        "Biden": 38193,
+        "Phillips": 2333
+      },
+      "12": {
+        "Biden": 83180,
+        "Phillips": 6679
+      },
+      "13": {
+        "Biden": 30525,
+        "Phillips": 3615
+      },
+      "14": {
+        "Biden": 47147,
+        "Phillips": 5541
+      },
+      "15": {
+        "Biden": 33101,
+        "Phillips": 3546
+      },
+      "16": {
+        "Biden": 47908,
+        "Phillips": 4672
+      },
+      "17": {
+        "Biden": 80431,
+        "Phillips": 6834
+      }
+    },
+    "cd_dels": {
+      "1": 6,
+      "2": 9,
+      "3": 11,
+      "4": 7,
+      "5": 8,
+      "6": 7,
+      "7": 7,
+      "8": 5,
+      "9": 3,
+      "10": 5,
+      "11": 5,
+      "12": 8,
+      "13": 3,
+      "14": 5,
+      "15": 4,
+      "16": 5,
+      "17": 7
+    },
+    "pools": {
+      "al": 0,
+      "pleo": 0,
+      "cd": 0
+    }
+  },
+  "IN": {
+    "cd_votes": {
+      "1": {
+        "Biden": 0
+      },
+      "2": {
+        "Biden": 0
+      },
+      "3": {
+        "Biden": 0
+      },
+      "4": {
+        "Biden": 0
+      },
+      "5": {
+        "Biden": 0
+      },
+      "6": {
+        "Biden": 0
+      },
+      "7": {
+        "Biden": 0
+      },
+      "8": {
+        "Biden": 0
+      },
+      "9": {
+        "Biden": 0
+      }
+    },
+    "cd_dels": {
+      "1": 7,
+      "2": 5,
+      "3": 5,
+      "4": 6,
+      "5": 6,
+      "6": 5,
+      "7": 8,
+      "8": 5,
+      "9": 6
+    },
+    "pools": {
+      "al": 0,
+      "pleo": 0,
+      "cd": 53
+    }
+  },
+  "MD": {
+    "cd_votes": {
+      "1": {
+        "Biden": 36193,
+        "Uncommitted": 4448
+      },
+      "2": {
+        "Biden": 63868,
+        "Uncommitted": 8342
+      },
+      "3": {
+        "Biden": 63368,
+        "Uncommitted": 7065
+      },
+      "4": {
+        "Biden": 81037,
+        "Uncommitted": 4945
+      },
+      "5": {
+        "Biden": 65781,
+        "Uncommitted": 5587
+      },
+      "6": {
+        "Biden": 49619,
+        "Uncommitted": 6081
+      },
+      "7": {
+        "Biden": 81410,
+        "Uncommitted": 12794
+      },
+      "8": {
+        "Biden": 68695,
+        "Uncommitted": 7583
+      }
+    },
+    "cd_dels": {
+      "1": 6,
+      "2": 7,
+      "3": 8,
+      "4": 9,
+      "5": 9,
+      "6": 6,
+      "7": 8,
+      "8": 10
+    },
+    "pools": {
+      "al": 0,
+      "pleo": 0,
+      "cd": 63
+    }
+  },
+  "NE": {
+    "cd_votes": {
+      "1": {
+        "Biden": 33503,
+        "Phillips": 3236
+      },
+      "2": {
+        "Biden": 37253,
+        "Phillips": 2762
+      },
+      "3": {
+        "Biden": 14506,
+        "Phillips": 3264
+      }
+    },
+    "cd_dels": {
+      "1": 7,
+      "2": 9,
+      "3": 4
+    },
+    "pools": {
+      "al": 0,
+      "pleo": 0,
+      "cd": 20
+    }
+  },
+  "WV": {
+    "cd_votes": {
+      "1": {
+        "Biden": 34403,
+        "Palmer,J": 5879
+      },
+      "2": {
+        "Biden": 33360,
+        "Palmer,J": 5125
+      }
+    },
+    "cd_dels": {
+      "1": 6,
+      "2": 7
+    },
+    "pools": {
+      "al": 0,
+      "pleo": 0,
+      "cd": 13
+    }
+  },
+  "KY": {
+    "cd_votes": {
+      "1": {
+        "Biden": 18248,
+        "Uncommitted": 7539
+      },
+      "2": {
+        "Biden": 16956,
+        "Uncommitted": 4390
+      },
+      "3": {
+        "Biden": 43632,
+        "Uncommitted": 5726
+      },
+      "4": {
+        "Biden": 14547,
+        "Uncommitted": 4215
+      },
+      "5": {
+        "Biden": 8793,
+        "Uncommitted": 5063
+      },
+      "6": {
+        "Biden": 29260,
+        "Uncommitted": 6023
+      }
+    },
+    "cd_dels": {
+      "1": 5,
+      "2": 4,
+      "3": 9,
+      "4": 6,
+      "5": 4,
+      "6": 7
+    },
+    "pools": {
+      "al": 0,
+      "pleo": 0,
+      "cd": 35
+    }
+  },
+  "OR": {
+    "cd_votes": {
+      "1": {
+        "Biden": 60119,
+        "Williamson,M": 4645
+      },
+      "2": {
+        "Biden": 39891,
+        "Williamson,M": 3990
+      },
+      "3": {
+        "Biden": 80332,
+        "Williamson,M": 6088
+      },
+      "4": {
+        "Biden": 61046,
+        "Williamson,M": 4742
+      },
+      "5": {
+        "Biden": 52077,
+        "Williamson,M": 4233
+      },
+      "6": {
+        "Biden": 38248,
+        "Williamson,M": 3050
+      }
+    },
+    "cd_dels": {
+      "1": 9,
+      "2": 4,
+      "3": 9,
+      "4": 8,
+      "5": 7,
+      "6": 7
+    },
+    "pools": {
+      "al": 0,
+      "pleo": 0,
+      "cd": 44
+    }
+  },
+  "ID": {
+    "cd_votes": {
+      "1": {
+        "Biden": 1127,
+        "Williamson,M": 36
+      },
+      "2": {
+        "Biden": 1170,
+        "Williamson,M": 43
+      }
+    },
+    "cd_dels": {
+      "1": 7,
+      "2": 8
+    },
+    "pools": {
+      "al": 0,
+      "pleo": 0,
+      "cd": 15
+    }
+  },
+  "MT": {
+    "cd_votes": {
+      "1": {
+        "Biden": 51700,
+        "No Preference": 4969
+      },
+      "2": {
+        "Biden": 66288,
+        "No Preference": 6510
+      }
+    },
+    "cd_dels": {
+      "1": 7,
+      "2": 5
+    },
+    "pools": {
+      "al": 0,
+      "pleo": 0,
+      "cd": 0
+    }
+  },
+  "NM": {
+    "cd_votes": {
+      "1": {
+        "Biden": 40198,
+        "Uncommitted": 4634
+      },
+      "2": {
+        "Biden": 30011,
+        "Uncommitted": 3531
+      },
+      "3": {
+        "Biden": 39852,
+        "Uncommitted": 4678
+      }
+    },
+    "cd_dels": {
+      "1": 10,
+      "2": 6,
+      "3": 7
+    },
+    "pools": {
+      "al": 0,
+      "pleo": 0,
+      "cd": 23
+    }
+  }
+}

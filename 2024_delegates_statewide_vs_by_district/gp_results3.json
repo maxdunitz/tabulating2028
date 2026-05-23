@@ -1,0 +1,651 @@
+{
+  "SC-D": {
+    "cd": 36,
+    "al": 0,
+    "pleo": 0,
+    "votes": {
+      "Biden": 126493,
+      "Williamson": 2732,
+      "Phillips": 2247
+    }
+  },
+  "NV-D": {
+    "cd": 23,
+    "al": 0,
+    "pleo": 0,
+    "votes": {
+      "Biden": 119758,
+      "Williamson": 4101,
+      "Gabriel Antonio Cornejo": 811,
+      "Jason Michael Palmer": 530,
+      "Lozada": 315,
+      "Perez-Serrato": 264,
+      "John Davis Haywood": 241,
+      "Stephen Patrick Lyons, Sr.": 147,
+      "Superpayaseria Reese Crystalroc": 133,
+      "Donald Picard": 124,
+      "Brent Foutz": 93,
+      "Stephen Alan Leon": 89,
+      "Mark Richard Prascak": 33
+    }
+  },
+  "MI-D": {
+    "cd": 77,
+    "al": 0,
+    "pleo": 15,
+    "votes": {
+      "Biden": 625221,
+      "Uncommitted": 101623,
+      "Williamson": 22865,
+      "Phillips": 20684,
+      "Write-in": 178
+    }
+  },
+  "AL-D": {
+    "cd": 34,
+    "al": 0,
+    "pleo": 0,
+    "votes": {
+      "Biden": 168080,
+      "Uncommitted": 11283,
+      "Phillips": 8442
+    }
+  },
+  "AS-D": {
+    "cd": 0,
+    "al": 0,
+    "pleo": 0,
+    "votes": {
+      "Jason Michael Palmer": 51,
+      "Biden": 40,
+      "Phillips": 0
+    }
+  },
+  "AR-D": {
+    "cd": 20,
+    "al": 0,
+    "pleo": 0,
+    "votes": {
+      "Biden": 71978,
+      "Williamson": 3883,
+      "Phillips": 2346,
+      "Stephen Patrick Lyons, Sr.": 1442,
+      "Perez-Serrato": 879,
+      "Lozada": 786
+    }
+  },
+  "CA-D": {
+    "cd": 277,
+    "al": 0,
+    "pleo": 0,
+    "votes": {
+      "Biden": 3207687,
+      "Williamson": 146356,
+      "Phillips": 100284,
+      "Perez-Serrato": 43105,
+      "Gabriel Antonio Cornejo": 41390,
+      "R. Boddie": 25455,
+      "Stephen Patrick Lyons, Sr.": 21062,
+      "Eban Cambridge": 12758
+    }
+  },
+  "CO-D": {
+    "cd": 47,
+    "al": 0,
+    "pleo": 0,
+    "votes": {
+      "Biden": 477365,
+      "Uncommitted": 52122,
+      "Phillips": 17936,
+      "Williamson": 16761,
+      "Gabriel Antonio Cornejo": 4313,
+      "Jason Michael Palmer": 3986,
+      "Perez-Serrato": 2591,
+      "Lozada": 2402,
+      "Stephen Patrick Lyons, Sr.": 1481
+    }
+  },
+  "IA-D": {
+    "cd": 26,
+    "al": 0,
+    "pleo": 0,
+    "votes": {
+      "Biden": 12337,
+      "Uncommitted": 614,
+      "Phillips": 394,
+      "Williamson": 307,
+      "Undervotes": 12,
+      "Overvotes": 5
+    }
+  },
+  "ME-D": {
+    "cd": 16,
+    "al": 0,
+    "pleo": 0,
+    "votes": {
+      "Biden": 60018,
+      "BLANK": 7359,
+      "Phillips": 4623,
+      "Others": 480
+    }
+  },
+  "MA-D": {
+    "cd": 60,
+    "al": 0,
+    "pleo": 0,
+    "votes": {
+      "Biden": 511045,
+      "Uncommitted": 57624,
+      "Phillips": 28478,
+      "Williamson": 19522
+    }
+  },
+  "MN-D": {
+    "cd": 49,
+    "al": 0,
+    "pleo": 0,
+    "votes": {
+      "Biden": 171278,
+      "Uncommitted": 45914,
+      "Phillips": 18960,
+      "Williamson": 3459,
+      "Write-in": 2000,
+      "Jason Michael Palmer": 758,
+      "Cenk Uygur": 692,
+      "Perez-Serrato": 372,
+      "Gabriel Antonio Cornejo": 323,
+      "Lozada": 290,
+      "Eban Cambridge": 235
+    }
+  },
+  "NC-D": {
+    "cd": 76,
+    "al": 0,
+    "pleo": 0,
+    "votes": {
+      "Biden": 609680,
+      "Uncommitted": 88900
+    }
+  },
+  "OK-D": {
+    "cd": 23,
+    "al": 0,
+    "pleo": 0,
+    "votes": {
+      "Biden": 66802,
+      "Williamson": 8341,
+      "Phillips": 8165,
+      "Stephen Patrick Lyons, Sr.": 4426,
+      "Cenk Uygur": 1958,
+      "Perez-Serrato": 1792
+    }
+  },
+  "TN-D": {
+    "cd": 41,
+    "al": 0,
+    "pleo": 0,
+    "votes": {
+      "Biden": 122803,
+      "Uncommitted": 10475
+    }
+  },
+  "TX-D": {
+    "cd": 159,
+    "al": 0,
+    "pleo": 0,
+    "votes": {
+      "Biden": 831247,
+      "Williamson": 43667,
+      "Perez-Serrato": 27473,
+      "Phillips": 26473,
+      "Gabriel Antonio Cornejo": 17196,
+      "Cenk Uygur": 16100,
+      "Lozada": 11311,
+      "Star Locke": 8602
+    }
+  },
+  "UT-D": {
+    "cd": 20,
+    "al": 0,
+    "pleo": 0,
+    "votes": {
+      "Biden": 58679,
+      "Williamson": 3496,
+      "Phillips": 3010,
+      "Gabriel Antonio Cornejo": 1485,
+      "Lozada": 851
+    }
+  },
+  "VT-D": {
+    "cd": 11,
+    "al": 0,
+    "pleo": 0,
+    "votes": {
+      "Biden": 56924,
+      "Write-in": 3379,
+      "Williamson": 2873,
+      "Phillips": 1942,
+      "Blank Votes": 1525,
+      "Mark Stewart Greenstein": 779,
+      "Cenk Uygur": 700,
+      "Jason Michael Palmer": 404,
+      "Overvotes": 73
+    }
+  },
+  "VA-D": {
+    "cd": 65,
+    "al": 0,
+    "pleo": 0,
+    "votes": {
+      "Biden": 312015,
+      "Williamson": 27663,
+      "Phillips": 12378
+    }
+  },
+  "HI-D": {
+    "cd": 14,
+    "al": 0,
+    "pleo": 0,
+    "votes": {
+      "Biden": 1032,
+      "Uncommitted": 455,
+      "Williamson": 50,
+      "Phillips": 15,
+      "Jason Michael Palmer": 6,
+      "Perez-Serrato": 5
+    }
+  },
+  "DA-D": {
+    "cd": 0,
+    "al": 0,
+    "pleo": 0,
+    "votes": {
+      "Biden": 6910,
+      "Uncommitted": 1136,
+      "Williamson": 576
+    }
+  },
+  "GA-D": {
+    "cd": 71,
+    "al": 0,
+    "pleo": 0,
+    "votes": {
+      "Biden": 275960,
+      "Williamson": 8667,
+      "Phillips": 5269
+    }
+  },
+  "MS-D": {
+    "cd": 23,
+    "al": 0,
+    "pleo": 0,
+    "votes": {}
+  },
+  "MP-D": {
+    "cd": 0,
+    "al": 6,
+    "pleo": 0,
+    "votes": {
+      "Biden": 93,
+      "Jason Michael Palmer": 4,
+      "Williamson": 2,
+      "Phillips": 0
+    }
+  },
+  "WA-D": {
+    "cd": 60,
+    "al": 0,
+    "pleo": 0,
+    "votes": {
+      "Biden": 751261,
+      "Uncommitted": 87187,
+      "Phillips": 24654,
+      "Williamson": 24559
+    }
+  },
+  "AZ-D": {
+    "cd": 47,
+    "al": 16,
+    "pleo": 0,
+    "votes": {
+      "Biden": 373081,
+      "Williamson": 15630,
+      "Phillips": 11547,
+      "Gabriel Antonio Cornejo": 6038,
+      "Lozada": 4903,
+      "Jason Michael Palmer": 3657,
+      "Stephen Patrick Lyons, Sr.": 2690
+    }
+  },
+  "FL-D": {
+    "cd": 146,
+    "al": 0,
+    "pleo": 0,
+    "votes": {}
+  },
+  "IL-D": {
+    "cd": 96,
+    "al": 0,
+    "pleo": 0,
+    "votes": {
+      "Biden": 703694,
+      "Williamson": 27326,
+      "Phillips": 24869,
+      "Lozada": 13864
+    }
+  },
+  "KS-D": {
+    "cd": 22,
+    "al": 0,
+    "pleo": 0,
+    "votes": {
+      "Biden": 35640,
+      "Williamson": 1472,
+      "Phillips": 576,
+      "Jason Michael Palmer": 515
+    }
+  },
+  "OH-D": {
+    "cd": 83,
+    "al": 0,
+    "pleo": 0,
+    "votes": {
+      "Biden": 456965,
+      "Phillips": 67982
+    }
+  },
+  "LA-D": {
+    "cd": 32,
+    "al": 10,
+    "pleo": 0,
+    "votes": {
+      "Biden": 143197,
+      "Williamson": 7896,
+      "Phillips": 4349,
+      "Stephen Patrick Lyons, Sr.": 3768,
+      "Moulton-Ely": 2650,
+      "Lozada": 2242,
+      "Perez-Serrato": 1198,
+      "Cenk Uygur": 1111
+    }
+  },
+  "MO-D": {
+    "cd": 42,
+    "al": 0,
+    "pleo": 0,
+    "votes": {}
+  },
+  "ND-D": {
+    "cd": 8,
+    "al": 0,
+    "pleo": 0,
+    "votes": {
+      "Biden": 840,
+      "Williamson": 31,
+      "Phillips": 16,
+      "Cenk Uygur": 13,
+      "Eban Cambridge": 4,
+      "Stephen Patrick Lyons, Sr.": 3,
+      "Jason Michael Palmer": 2,
+      "Perez-Serrato": 0
+    }
+  },
+  "CT-D": {
+    "cd": 40,
+    "al": 0,
+    "pleo": 0,
+    "votes": {
+      "Biden": 55619,
+      "Uncommitted": 7618,
+      "Williamson": 1479,
+      "Phillips": 565,
+      "Cenk Uygur": 303
+    }
+  },
+  "DE-D": {
+    "cd": 0,
+    "al": 0,
+    "pleo": 0,
+    "votes": {}
+  },
+  "NY-D": {
+    "cd": 179,
+    "al": 0,
+    "pleo": 0,
+    "votes": {
+      "Biden": 288090,
+      "Blank": 41092,
+      "Williamson": 15567,
+      "Phillips": 11302,
+      "Void": 904
+    }
+  },
+  "RI-D": {
+    "cd": 18,
+    "al": 0,
+    "pleo": 3,
+    "votes": {
+      "Biden": 20888,
+      "Uncommitted": 3750,
+      "Phillips": 634
+    }
+  },
+  "WI-D": {
+    "cd": 54,
+    "al": 0,
+    "pleo": 0,
+    "votes": {
+      "Biden": 512397,
+      "Uncommitted": 48133,
+      "Phillips": 17790
+    }
+  },
+  "AK-D": {
+    "cd": 0,
+    "al": 0,
+    "pleo": 0,
+    "votes": {}
+  },
+  "WY-D": {
+    "cd": 8,
+    "al": 0,
+    "pleo": 0,
+    "votes": {
+      "Biden": 380,
+      "Uncommitted": 13,
+      "David Michael Olscamp": 2,
+      "Williamson": 1,
+      "Stephen Patrick Lyons, Sr.": 0,
+      "Jason Michael Palmer": 0,
+      "Perez-Serrato": 0,
+      "Phillips": 0
+    }
+  },
+  "PA-D": {
+    "cd": 105,
+    "al": 0,
+    "pleo": 0,
+    "votes": {
+      "Biden": 947639,
+      "Phillips": 69295
+    }
+  },
+  "NH-D": {
+    "cd": 16,
+    "al": 0,
+    "pleo": 1,
+    "votes": {
+      "Phillips": 24377,
+      "Williamson": 5016,
+      "Derek Nadeau": 1616,
+      "Vermin Supreme": 912,
+      "John Vail": 685,
+      "Donald Picard": 371,
+      "Paperboy Love Prince": 326,
+      "Paul V. LaCava": 176,
+      "Jason Michael Palmer": 142,
+      "R. Boddie": 136,
+      "Mark Stewart Greenstein": 133,
+      "Terrisa Lin Bukovinac": 101,
+      "Gabriel Antonio Cornejo": 86,
+      "Stephen Patrick Lyons, Sr.": 80,
+      "Lozada": 73,
+      "Tom Koos": 71,
+      "Perez-Serrato": 68,
+      "Star Locke": 59,
+      "Raymond Michael Moroz": 52,
+      "Eban Cambridge": 47,
+      "Richard Rist": 37
+    }
+  },
+  "PR-D": {
+    "cd": 0,
+    "al": 0,
+    "pleo": 0,
+    "votes": {
+      "Biden": 3296,
+      "Williamson": 230,
+      "Phillips": 165
+    }
+  },
+  "IN-D": {
+    "cd": 53,
+    "al": 0,
+    "pleo": 0,
+    "votes": {}
+  },
+  "MD-D": {
+    "cd": 63,
+    "al": 0,
+    "pleo": 0,
+    "votes": {
+      "Biden": 510595,
+      "Uncommitted": 56940,
+      "Williamson": 10984,
+      "Phillips": 7158
+    }
+  },
+  "NE-D": {
+    "cd": 20,
+    "al": 0,
+    "pleo": 0,
+    "votes": {
+      "Biden": 85307,
+      "Phillips": 9261
+    }
+  },
+  "WV-D": {
+    "cd": 13,
+    "al": 0,
+    "pleo": 0,
+    "votes": {
+      "Biden": 67675,
+      "Jason Michael Palmer": 11021,
+      "Stephen Patrick Lyons, Sr.": 7359,
+      "Phillips": 7193,
+      "Perez-Serrato": 2779
+    }
+  },
+  "KY-D": {
+    "cd": 35,
+    "al": 12,
+    "pleo": 6,
+    "votes": {
+      "Biden": 131219,
+      "Uncommitted": 32938,
+      "Williamson": 11340,
+      "Phillips": 8751
+    }
+  },
+  "OR-D": {
+    "cd": 44,
+    "al": 0,
+    "pleo": 0,
+    "votes": {
+      "Biden": 331901,
+      "Williamson": 26738
+    }
+  },
+  "ID-D": {
+    "cd": 15,
+    "al": 0,
+    "pleo": 0,
+    "votes": {
+      "Biden": 2297,
+      "Williamson": 79,
+      "David Michael Olscamp": 14,
+      "Phillips": 14,
+      "Jason Michael Palmer": 5,
+      "Perez-Serrato": 3
+    }
+  },
+  "DC-D": {
+    "cd": 13,
+    "al": 0,
+    "pleo": 0,
+    "votes": {
+      "Biden": 79026,
+      "Write-in": 6969,
+      "Williamson": 3874,
+      "UNDER VOTES": 2462,
+      "Perez-Serrato": 1003,
+      "OVER VOTES": 102
+    }
+  },
+  "MT-D": {
+    "cd": 12,
+    "al": 0,
+    "pleo": 0,
+    "votes": {
+      "Biden": 94787,
+      "Uncommitted": 9306
+    }
+  },
+  "NJ-D": {
+    "cd": 0,
+    "al": 0,
+    "pleo": 0,
+    "votes": {
+      "Biden": 569881,
+      "Uncommitted": 63664,
+      "Terrisa Lin Bukovinac": 18996
+    }
+  },
+  "NM-D": {
+    "cd": 23,
+    "al": 0,
+    "pleo": 0,
+    "votes": {
+      "Biden": 110248,
+      "Uncommitted": 12858,
+      "Williamson": 8872
+    }
+  },
+  "SD-D": {
+    "cd": 10,
+    "al": 0,
+    "pleo": 0,
+    "votes": {
+      "Biden": 13393,
+      "Williamson": 2064,
+      "Phillips": 1719,
+      "Perez-Serrato": 752
+    }
+  },
+  "GU-D": {
+    "cd": 0,
+    "al": 7,
+    "pleo": 0,
+    "votes": {}
+  },
+  "VI-D": {
+    "cd": 0,
+    "al": 7,
+    "pleo": 0,
+    "votes": {
+      "Biden": 467,
+      "Uncommitted": 0,
+      "Williamson": 0
+    }
+  }
+}
