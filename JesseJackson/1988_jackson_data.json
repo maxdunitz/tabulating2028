@@ -1,0 +1,368 @@
+{
+  "Iowa": {
+    "total_del": 52,
+    "act": 12,
+    "hypo": 0,
+    "pct": 11.14
+  },
+  "New Hampshire": {
+    "total_del": 18,
+    "act": 0,
+    "hypo": 0,
+    "pct": 7.82
+  },
+  "Minnesota": {
+    "total_del": 78,
+    "act": 27,
+    "hypo": 19,
+    "pct": 19.97
+  },
+  "South Dakota": {
+    "total_del": 15,
+    "act": 0,
+    "hypo": 0,
+    "pct": 5.39
+  },
+  "Maine": {
+    "total_del": 23,
+    "act": 9,
+    "hypo": 9,
+    "pct": 26.77
+  },
+  "Vermont": {
+    "total_del": 14,
+    "act": 7,
+    "hypo": 6,
+    "pct": 37.39
+  },
+  "Wyoming": {
+    "total_del": 13,
+    "act": 3,
+    "hypo": 0,
+    "pct": 14.79
+  },
+  "Alabama": {
+    "total_del": 56,
+    "act": 28,
+    "hypo": 30,
+    "pct": 43.54
+  },
+  "American Samoa": {
+    "total_del": 3,
+    "act": 0,
+    "hypo": 0,
+    "pct": 0.0
+  },
+  "Arkansas": {
+    "total_del": 38,
+    "act": 9,
+    "hypo": 9,
+    "pct": 17.14
+  },
+  "Florida": {
+    "total_del": 136,
+    "act": 33,
+    "hypo": 45,
+    "pct": 20.1
+  },
+  "Georgia": {
+    "total_del": 86,
+    "act": 38,
+    "hypo": 39,
+    "pct": 39.72
+  },
+  "Hawaii": {
+    "total_del": 20,
+    "act": 8,
+    "hypo": 8,
+    "pct": 34.95
+  },
+  "Idaho": {
+    "total_del": 18,
+    "act": 3,
+    "hypo": 7,
+    "pct": 21.89
+  },
+  "Kentucky": {
+    "total_del": 55,
+    "act": 6,
+    "hypo": 11,
+    "pct": 15.58
+  },
+  "Louisiana": {
+    "total_del": 63,
+    "act": 32,
+    "hypo": 28,
+    "pct": 35.2
+  },
+  "Maryland": {
+    "total_del": 67,
+    "act": 20,
+    "hypo": 26,
+    "pct": 29.01
+  },
+  "Massachusetts": {
+    "total_del": 98,
+    "act": 19,
+    "hypo": 24,
+    "pct": 18.62
+  },
+  "Mississippi": {
+    "total_del": 40,
+    "act": 24,
+    "hypo": 23,
+    "pct": 44.06
+  },
+  "Missouri": {
+    "total_del": 77,
+    "act": 14,
+    "hypo": 20,
+    "pct": 20.13
+  },
+  "Nevada": {
+    "total_del": 16,
+    "act": 4,
+    "hypo": 4,
+    "pct": 21.88
+  },
+  "North Carolina": {
+    "total_del": 82,
+    "act": 31,
+    "hypo": 31,
+    "pct": 32.9
+  },
+  "Oklahoma": {
+    "total_del": 46,
+    "act": 3,
+    "hypo": 0,
+    "pct": 13.36
+  },
+  "Rhode Island": {
+    "total_del": 22,
+    "act": 3,
+    "hypo": 4,
+    "pct": 15.09
+  },
+  "Tennessee": {
+    "total_del": 70,
+    "act": 14,
+    "hypo": 16,
+    "pct": 20.69
+  },
+  "Texas": {
+    "total_del": 183,
+    "act": 67,
+    "hypo": 58,
+    "pct": 24.46
+  },
+  "Virginia": {
+    "total_del": 75,
+    "act": 38,
+    "hypo": 38,
+    "pct": 45.03
+  },
+  "Washington": {
+    "total_del": 65,
+    "act": 27,
+    "hypo": 6,
+    "pct": 33.69
+  },
+  "Alaska": {
+    "total_del": 17,
+    "act": 7,
+    "hypo": 9,
+    "pct": 34.91
+  },
+  "South Carolina": {
+    "total_del": 47,
+    "act": 28,
+    "hypo": 35,
+    "pct": 54.04
+  },
+  "IllinoisPreference": {
+    "total_del": 187,
+    "act": 0,
+    "hypo": 66,
+    "pct": 32.26
+  },
+  "IllinoisDelegate": {
+    "total_del": 187,
+    "act": 24,
+    "hypo": 0,
+    "pct": 0.0
+  },
+  "Kansas": {
+    "total_del": 39,
+    "act": 10,
+    "hypo": 14,
+    "pct": 30.76
+  },
+  "Puerto Rico": {
+    "total_del": 51,
+    "act": 0,
+    "hypo": 19,
+    "pct": 35.2
+  },
+  "Puerto RicoDelegate": {
+    "total_del": 51,
+    "act": 0,
+    "hypo": 0,
+    "pct": 0.0
+  },
+  "Democrats Abroad": {
+    "total_del": 9,
+    "act": 0,
+    "hypo": 2,
+    "pct": 16.84
+  },
+  "Michigan": {
+    "total_del": 138,
+    "act": 74,
+    "hypo": 89,
+    "pct": 53.44
+  },
+  "North Dakota": {
+    "total_del": 15,
+    "act": 2,
+    "hypo": 5,
+    "pct": 19.18
+  },
+  "Connecticut": {
+    "total_del": 59,
+    "act": 17,
+    "hypo": 19,
+    "pct": 29.76
+  },
+  "VirginIs.": {
+    "total_del": 3,
+    "act": 3,
+    "hypo": 3,
+    "pct": 94.49
+  },
+  "Colorado": {
+    "total_del": 49,
+    "act": 16,
+    "hypo": 0,
+    "pct": 0.0
+  },
+  "Wisconsin": {
+    "total_del": 81,
+    "act": 24,
+    "hypo": 25,
+    "pct": 28.18
+  },
+  "Arizona": {
+    "total_del": 36,
+    "act": 14,
+    "hypo": 15,
+    "pct": 37.8
+  },
+  "Delaware": {
+    "total_del": 15,
+    "act": 7,
+    "hypo": 9,
+    "pct": 45.77
+  },
+  "New York": {
+    "total_del": 255,
+    "act": 89,
+    "hypo": 108,
+    "pct": 37.15
+  },
+  "GuamTerr.Committee": {
+    "total_del": 3,
+    "act": 0,
+    "hypo": 0,
+    "pct": 0.0
+  },
+  "Utah": {
+    "total_del": 23,
+    "act": 3,
+    "hypo": 0,
+    "pct": 0.0
+  },
+  "Pennsylvania": {
+    "total_del": 178,
+    "act": 0,
+    "hypo": 28,
+    "pct": 27.28
+  },
+  "PennsylvaniaDelegate": {
+    "total_del": 178,
+    "act": 14,
+    "hypo": 0,
+    "pct": 0.0
+  },
+  "Indiana": {
+    "total_del": 79,
+    "act": 16,
+    "hypo": 19,
+    "pct": 22.46
+  },
+  "Ohio": {
+    "total_del": 159,
+    "act": 41,
+    "hypo": 48,
+    "pct": 27.23
+  },
+  "Washington, D.C.": {
+    "total_del": 16,
+    "act": 13,
+    "hypo": 13,
+    "pct": 80.24
+  },
+  "Illinois": {
+    "total_del": 187,
+    "act": 13,
+    "hypo": 0,
+    "pct": 0.0
+  },
+  "Nebraska": {
+    "total_del": 25,
+    "act": 7,
+    "hypo": 7,
+    "pct": 26.46
+  },
+  "West Virginia": {
+    "total_del": 37,
+    "act": 0,
+    "hypo": 0,
+    "pct": 13.46
+  },
+  "Oregon": {
+    "total_del": 45,
+    "act": 18,
+    "hypo": 18,
+    "pct": 38.14
+  },
+  "California": {
+    "total_del": 314,
+    "act": 116,
+    "hypo": 117,
+    "pct": 35.38
+  },
+  "Montana": {
+    "total_del": 19,
+    "act": 4,
+    "hypo": 5,
+    "pct": 22.14
+  },
+  "New Jersey": {
+    "total_del": 109,
+    "act": 9,
+    "hypo": 35,
+    "pct": 31.21
+  },
+  "New Mexico": {
+    "total_del": 24,
+    "act": 8,
+    "hypo": 8,
+    "pct": 28.09
+  },
+  "1,726.5 Del.9,705,590(42.17%)": {
+    "total_del": 0,
+    "act": 375,
+    "hypo": 0,
+    "pct": 13.58
+  }
+}
